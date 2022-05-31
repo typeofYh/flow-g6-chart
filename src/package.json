@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@antv/g6": "latest",
+    "@antv/util": "latest"
+  },
+  "devDependencies": {},
+  "main": "index.js"
+}
